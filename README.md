@@ -5,6 +5,7 @@
 *I code with :*
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-8DD6F9?style=flat-square&logo=laravel" /> 
+  <img alt="React" src="https://img.shields.io/badge/-React-F9A03C?style=flat-square&logo=react.js" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-F9A03C?style=flat-square&logo=vue.js" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/-PHP-CB3837?style=flat-square&logo=php" />
