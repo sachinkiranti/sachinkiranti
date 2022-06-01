@@ -2,7 +2,7 @@ Hi! 👋 I’m Rai Sachin, a full-stack developer focused on creating great web 
 
 ![https://raisachin.com.np](https://komarev.com/ghpvc/?username=sachinkiranti) 
 
-<a href="https://twitter.com/sachinkiranti" target="blank"><img src="https://img.shields.io/twitter/follow/sachinkiranti?logo=twitter&style=for-the-badge" alt="sachinkiranti" /></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/sachinkiranti?label=Follow%20%40me&style=social)
 
 ![Sachin Rai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinkiranti&show_icons=true)
 
