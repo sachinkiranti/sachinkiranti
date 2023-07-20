@@ -17,3 +17,6 @@ You can always checkout my [blog](https://www.raisachin.com.np/) and reach me by
 
 - [https://github.com/sachinkiranti/addy](https://github.com/sachinkiranti/addy)
 Easy access of Laravel Routes in JavaScript.
+
+- [https://github.com/sachinkiranti/acl-ease](https://github.com/sachinkiranti/acl-ease)
+AclEase - Simplified ACL Plugin for Laravel.
