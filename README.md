@@ -11,6 +11,9 @@ You can always checkout my [blog](https://www.raisachin.com.np/) and reach me by
 
 ### Upcoming awesome Package 
 
+- [https://github.com/sachinkiranti/trello-enhanced](https://github.com/sachinkiranti/trello-enhanced)
+Enhance Trello Features
+
 - [https://github.com/sachinkiranti/addy](https://github.com/sachinkiranti/addy)
 Easy access of Laravel Routes in JavaScript.
 
